@@ -1,0 +1,2 @@
+# jami
+Sema is an artificial intelligence virtual assistant powered by Python. It utilizes voice control technology to provide a hands-free experience. With Sema, users can request it to play YouTube videos and ask questions, receiving accurate answers in response. This virtual assistant demonstrates the capabilities of Python in the domains of artificial intelligence, virtual assistants, voice control, and natural language processing.
